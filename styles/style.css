@@ -3,8 +3,8 @@
   font-style: normal;
   font-weight: normal;
   src:
-    url("../fonts/Certa-Sans-Medium.ttf") format('truetype'),
-    url("../fonts/Certa-Sans-Medium.otf") format('otf');
+    url(../fonts/Certa-Sans-Medium.ttf) format('truetype'),
+    url(../fonts/Certa-Sans-Medium.otf) format('otf');
 }
 
 @font-face {
@@ -12,8 +12,8 @@
   font-style: normal;
   font-weight: normal;
   src:
-    url("../fonts/Certa-Sans-Medium-Italic.ttf") format('truetype'),
-    url("../fonts/Certa-Sans-Medium-Italic.otf") format('otf');
+    url(../fonts/Certa-Sans-Medium-Italic.ttf) format('truetype'),
+    url(../fonts/Certa-Sans-Medium-Italic.otf) format('otf');
 }
 
 @keyframes rotateSquare {
