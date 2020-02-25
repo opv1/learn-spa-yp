@@ -585,12 +585,18 @@ iframe {
   color: white;
 }
 
+.footer__social-block {
+  display: flex;
+  align-items: center;
+}
+
 .footer__column-link {
   color: #FFFFFF;
   text-decoration: none;
 }
 
 .footer__social-icon {
+  margin: 5px;
   width: 16px;
   height: 16px;
 }
