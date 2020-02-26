@@ -1,20 +1,5 @@
-@font-face {
-  font-family: "Certa Sans";
-  font-style: normal;
-  font-weight: normal;
-  src:
-    url(../fonts/Certa-Sans-Medium.ttf) format('truetype'),
-    url(../fonts/Certa-Sans-Medium.otf) format('otf');
-}
-
-@font-face {
-  font-family: "Certa Sans Italic";
-  font-style: normal;
-  font-weight: normal;
-  src:
-    url(../fonts/Certa-Sans-Medium-Italic.ttf) format('truetype'),
-    url(../fonts/Certa-Sans-Medium-Italic.otf) format('otf');
-}
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
 
 @keyframes rotateSquare {
   from {
@@ -30,7 +15,7 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
-  font-family: "Certa Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Certa Sans", Arial, Helvetica, sans-serif;
 }
 
 /*НАЧАЛО HEADER*/
