@@ -585,12 +585,9 @@ iframe {
   color: white;
 }
 
-.footer__social-block {
+.footer__column-link {
   display: flex;
   align-items: center;
-}
-
-.footer__column-link {
   color: #FFFFFF;
   text-decoration: none;
 }
