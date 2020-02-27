@@ -18,8 +18,6 @@
   font-family: "Certa Sans", Arial, Helvetica, sans-serif;
 }
 
-/*НАЧАЛО HEADER*/
-
 .header {
   position: relative;
   display: flex;
@@ -95,8 +93,6 @@
   animation: rotateSquare 20s linear infinite;
 }
 
-/*НАЧАЛО CONTENT*/
-/*НАЧАЛО Description*/
 .description {
   display: flex;
   justify-content: space-around;
@@ -143,8 +139,6 @@
   font-size: 24px;
   font-weight: bold;
 }
-
-/*НАЧАЛО Technics*/
 
 .technics {
   display: flex;
@@ -209,8 +203,6 @@
   font-weight: normal;
 }
 
-/*НАЧАЛО Video*/
-
 .video {
   display: flex;
   flex-direction: column;
@@ -232,8 +224,6 @@ iframe {
   border: 0px;
 }
 
-/*НАЧАЛО Oakley*/
-
 .oakley {
   display: flex;
   justify-content: space-around;
@@ -241,8 +231,6 @@ iframe {
   padding-bottom: 80px;
   background-color: #F2F2F2;
 }
-
-/*НАЧАЛО Feinman*/
 
 .feinman {
   position: relative;
@@ -304,8 +292,6 @@ iframe {
   z-index: 1;
 }
 
-/*НАЧАЛО Digigts*/
-
 .digits {
   position: relative;
   display: flex;
@@ -346,8 +332,6 @@ iframe {
   font-size: 18px;
   font-weight: normal;
 }
-
-/*НАЧАЛО Khan*/
 
 .khan {
   display: flex;
@@ -425,8 +409,6 @@ iframe {
   transition: opacity 1s ease;
 }
 
-/*НАЧАЛО Kaufman*/
-
 .kaufman {
   overflow: hidden;
   position: relative;
@@ -470,8 +452,6 @@ iframe {
   animation: rotateSquare 20s linear infinite;
 }
 
-/*НАЧАЛО Resourses*/
-
 .resourses {
   padding-top: 100px;
   padding-bottom: 217px;
@@ -489,8 +469,6 @@ iframe {
   width: 270px;
   height: 38px;
 }
-
-/*НАЧАЛО FOOTER*/
 
 .footer {
   display: flex;
