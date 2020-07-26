@@ -1,8 +1,7 @@
 {
-  "name": "work-project-course-1",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "yp-course-1",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
