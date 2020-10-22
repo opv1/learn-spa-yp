@@ -8,4 +8,4 @@
 Верстка одностраничного сайта  
 Стек: HTML, CSS
 
-## [Увидеть проект](https://opv1.github.io/yp-course-1/)
+## [Увидеть проект](https://opv1.github.io/learn-spa-yp/)
