@@ -1,6 +1,7 @@
 {
   "name": "yp-course-1",
   "version": "0.1.0",
+  "description": "Learn to learn",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/opv1/yp-course-1.git"
   },
+  "keywords": [],
   "author": "Pavel Ovechkin",
   "license": "ISC",
   "bugs": {
