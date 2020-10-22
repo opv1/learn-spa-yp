@@ -1,5 +1,5 @@
 {
-  "name": "yp-course-1",
+  "name": "learn-spa-yp",
   "version": "1.0.0",
   "description": "Learn to learn",
   "private": true,
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opv1/yp-course-1.git"
+    "url": "git+https://github.com/opv1/learn-spa-yp.git"
   },
   "keywords": [],
   "author": "Pavel Ovechkin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opv1/yp-course-1/issues"
+    "url": "https://github.com/opv1/learn-spa-yp/issues"
   },
-  "homepage": "https://github.com/opv1/yp-course-1#readme"
+  "homepage": "https://github.com/opv1/learn-spa-yp#readme"
 }
