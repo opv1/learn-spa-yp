@@ -1,4 +1,6 @@
 *.git
+.cache/
+dist/
 
 # Windows thumbnail cache files
 Thumbs.db
@@ -24,3 +26,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Dependency directories
+node_modules/

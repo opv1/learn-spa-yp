@@ -3,10 +3,20 @@
   <img src="https://img.shields.io/badge/made%20by-opv1-blue.svg">
 </p>
 
-## Описание
+## Description
 
-Верстка страницы
+Верстка первой в жизни страницы
 
 Стек: HTML, CSS
 
-## [Увидеть проект](https://opv1.github.io/learn-spa-yp/)
+## [See the project](https://opv1.github.io/learn-yp/)
+
+## Setup
+
+```
+npm run build
+```
+
+```
+npm run dev
+```
