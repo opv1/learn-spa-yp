@@ -7,7 +7,7 @@
 
 Верстка первой в жизни страницы
 
-Стек: HTML, CSS
+Stack: HTML, CSS
 
 ## [See the project](https://opv1.github.io/learn-yp/)
 
