@@ -1,7 +1,6 @@
-debug.log
-*.git
 .cache/
 dist/
+debug.log
 
 # Windows thumbnail cache files
 Thumbs.db

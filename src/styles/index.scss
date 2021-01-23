@@ -1,3 +1,4 @@
+@import '../../node_modules/normalize.css';
 @import './fonts.scss';
 
 @keyframes rotateSquare {
@@ -13,7 +14,7 @@
 body {
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Certa Sans', Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
 }
 
 a {
