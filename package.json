@@ -1,8 +1,8 @@
 {
-  "name": "learn-yp",
+  "name": "learn-to-learn",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/opv1/learn-yp",
+  "homepage": "https://github.com/opv1/learn-to-learn",
   "scripts": {
     "build": "parcel build src/index.html --no-source-maps --no-cache --public-url .",
     "dev": "parcel src/index.html -p 3000 --open Chrome",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opv1/learn-yp.git"
+    "url": "git+https://github.com/opv1/learn-to-learn.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opv1/learn-yp/issues"
+    "url": "https://github.com/opv1/learn-to-learn/issues"
   },
   "dependencies": {
     "normalize.css": "^8.0.1"
